@@ -24,5 +24,12 @@
 		</classes>
 	</test> <!-- Test -->
 
+	<!--<test thread-count="1" name="sslname">
+		<classes>
+			<class name="testcases.SSLchecks1" />
+		</classes>
+	</test> --><!-- Test -->
+
+
 
 </suite> <!-- Suite -->
